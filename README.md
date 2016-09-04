@@ -1,4 +1,4 @@
-This is seed project for getting up and running with babel + browserify + gulp.
+This is a seed project for getting up and running with babel + browserify + gulp.
 
     -This project uses babel for transpiling ES2015 javascript code to es5.
     -browserify is used for module bundling.
