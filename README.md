@@ -1,9 +1,10 @@
 This is a seed project for getting up and running with babel + browserify + gulp.
 
-    -This project uses babel for transpiling ES2015 javascript code to es5.
-    -browserify is used for module bundling.
-    -gulp is used for automating build process for dev and prod. 
-    -SASS for css.
+    -This project uses
+    -- babel for transpiling ES2015 javascript code to es5.
+    -- browserify is used for module bundling.
+    -- gulp is used for automating build process for dev and prod. 
+    -- SASS for css.
 
 To setup this project<br>
     1. run `npm install` after cloning this repo.<br>
